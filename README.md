@@ -19,3 +19,10 @@ Tensorflow Pratice programs
   ```
 
 *Deep Learning and Neural Network*
+
+  1. [Introduction to Neural Networks](http://www.cs.stir.ac.uk/~lss/NNIntro/InvSlides.html)
+  2. [Image Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)
+  ```
+  - Image Recognition 
+  - Convolutional Neural Network
+  ```
