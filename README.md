@@ -132,3 +132,5 @@ with tf.name_scope('GDOptimizer'):
   ```
   Putting together all of these we can check the complete flow through tensorboard:
   ![Graph](https://github.com/SumaDodo/TensorFlow/blob/master/graph_large_attrs_key%3D_too_large_attrs%26limit_attr_size%3D1024%26run%3D%20(1).png)
+
+You can find the complete program for this [here](https://github.com/SumaDodo/TensorFlow/blob/master/TensorBoard.ipynb)
