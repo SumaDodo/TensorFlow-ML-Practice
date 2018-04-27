@@ -134,3 +134,6 @@ with tf.name_scope('GDOptimizer'):
   ![Graph](https://github.com/SumaDodo/TensorFlow/blob/master/graph_large_attrs_key%3D_too_large_attrs%26limit_attr_size%3D1024%26run%3D%20(1).png)
 
 You can find the complete program for this [here](https://github.com/SumaDodo/TensorFlow/blob/master/TensorBoard.ipynb)
+
+**Reference:**  
+  1. https://deepnotes.io/tensorflow  
