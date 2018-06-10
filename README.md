@@ -135,5 +135,7 @@ with tf.name_scope('GDOptimizer'):
 
 You can find the complete program for this [here](https://github.com/SumaDodo/TensorFlow/blob/master/TensorBoard.ipynb)
 
+What is a tensor? Explanation with simple household objects [here](https://www.youtube.com/watch?v=f5liqUk0ZTw)
+
 **Reference:**  
   1. https://deepnotes.io/tensorflow  
