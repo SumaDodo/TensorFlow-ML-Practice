@@ -1,4 +1,4 @@
-Tensorflow Pratice programs
+**Tensorflow Pratice programs**
 
 **Resource Links:**  
 *Machine Learning:*  
@@ -6,7 +6,7 @@ Tensorflow Pratice programs
 ```
 - Explanation about measurement of wrongness.
 - Cost Function
-- Regression vs Classification
+- Regression vs Classification  
 ```
   2. [A Gentle Guide to Machine Learning](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)  
 ```
@@ -52,7 +52,7 @@ There are five important components in a tensorflow computational graph:
   2. **Variables:** Model variable that are going to be optimized to make the model perform better.  
   3. **Model:** Mathematical function that calculates output based on placeholder and model variables.  
   4. **Loss Measure:** Guide for optimization of model variables.
-  5. **Optimization:** Update model for tuning model variables.  
+  5. **Optimization:** Update model for tuning model variables.    
   
 We can understand the above listed concepts by implementing a linear classifier to classify handwritten digits from MNIST dataset:
 
